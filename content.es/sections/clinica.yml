@@ -1,0 +1,21 @@
+id: clinica
+title: Clínica
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    num: 4
+    wrap: false
+    gap: false
+    cover: true
+    grayscale: false
+  images:
+  - clinica-dental-en-murcia.jpg
+  - odontologia-en-murcia.jpg
+  - clinica-dental-lopez-del-amo.jpg
+  - clinica-de-odontologia-en-murcia.jpg
+  - clinica-dental-lopez-amo-odontologia-murcia-1.jpg
+  - carrusel-clinica-lopez-del-amo-trabajando-odontologia-3.jpg
+  - carrusel-clinica-lopez-del-amo-mas-instrumentos-dentista.jpg
+  - carrusel-clinica-lopez-del-amo-interior-sala-1.jpg

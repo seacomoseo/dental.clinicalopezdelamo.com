@@ -1,0 +1,21 @@
+id: equipo
+title: Equipo
+subtitle: Dentistas Especialistas
+color: white
+rows:
+- type: columns
+  design:
+    ratio: circle
+  items:
+  - title: Dña. Blanca López del Amo Lorente
+    link: '#dna-blanca-lopez-del-amo-lorente'
+    image: dna-blanca-lopez-del-amo-lorente-sm.jpg
+  - title: Dña. Ana Martín Pardo
+    link: '#dna-ana-martin-pardo'
+    image: dna-ana-martin-pardo-sm.jpg
+  - title: Dña. Alicia Rodríguez Martínez
+    link: '#dna-alicia-rodriguez-martinez'
+    image: dna-alicia-rodriguez-martinez-sm.jpg
+  - title: Dña. Olga Guerrero Faura
+    link: '#dna-olga-guerrero-faura'
+    image: dna-olga-guerrero-faura-sm.jpg

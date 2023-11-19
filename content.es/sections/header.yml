@@ -1,0 +1,12 @@
+id: header
+anchor: Clinica Dental y Odontología en Murcia
+title: Clinica Dental López del Amo
+subtitle: Odontología en Murcia
+color: white
+image: logo.svg
+description: |
+  [btn icon-youtube Vídeo](#video)
+more:
+  align: center
+  image_min: 10
+  image_max: 18
